@@ -1,5 +1,5 @@
 # Dynamical MRI 🌀
-**A Topological Audio Microscope (VST3 / Standalone)**
+**A Topological Audio Microscope (VST3 for build / Built folder)**
 
 ![Pic](pic.png)
 
